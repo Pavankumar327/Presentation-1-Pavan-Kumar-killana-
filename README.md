@@ -1,2 +1,2 @@
 # Projectpresentation-1-Pavan-Kumar-killana-
-I made a presentation on basics of Machine Learning which helps one who want to a start a career as a Machine Learning.
+I made one presentation on basics of Machine Learning which helps one who want to a start a career as  Machine Learning.you can see that in the above presentation.
